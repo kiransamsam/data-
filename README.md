@@ -1,4 +1,4 @@
-<H1>Automated Feature Engineering Improves Your Data Science<H1>
+Automated Feature Engineering Improves Your Data Science
   
 Along these lines, you've fabricated a dataset you're content with, and your AI (ML) model prepared to begin making expectations left and right. Simple as pie, correct? All things considered, it depends. When you have a dataset that merits utilizing to prepare your models, you need to fabricate a list of capabilities that will really get you the forecasts you need. The genuine inquiry is, how would you approach tracking down the correct highlights? 
 
@@ -8,7 +8,7 @@ In any case, well before you see a positive yield, you'll run into in excess of 
 
 The other is that regardless of whether you do figure out how to make an amazing show, you actually need to test every individual element prior to knowing whether it's legitimate, valuable, and significant. In case you're assembling a little model, or utilizing a generally little dataset, this is definitely not a significant issue. Yet, what happens when you need to send models that can scale? Or then again when you're working with huge datasets? This is the point at which you need more — you need expanded component designing
 
-<H2>However, it’s not enough to simply generate the features, so now Explorium will filter, test, and rank them.<H2>
+However, it’s not enough to simply generate the features, so now Explorium will filter, test, and rank them.
   
 Suppose examined your enhanced dataset and thought of more than 1300 new likely highlights. These will go from the essentially pertinent (like the normal time between exercises, for example) to those that may just digressively affect your models (like the kind of bank utilized in a first home credit). 
 
@@ -18,7 +18,7 @@ For instance, subsequent to enhancing your clients' ZIP codes, you may discover 
 
 All the more significantly, you can compose your own code — known as "creatives" in our foundation — which allows you to add your area information to the element age measure. Thusly, you can guide the stage to explicit highlights and thoughts that you think could hugely affect your models. This implies that you can delve much more profound into the Explorium Enrichment Catalog to track down the best highlights and information for your prescient inquiries
 
-<H2>Using your top features, you can now start training a variety of different ML models to find the one that gives you the biggest uplift and best results based on your predictive question<H2>
+Using your top features, you can now start training a variety of different ML models to find the one that gives you the biggest uplift and best results based on your predictive question
   
 Rather than just having a go at everything to perceive what sticks, Explorium will utilize your interesting chosen include sets (or even the total rundown on the off chance that you need) to prepare a wide range of models. You'll have the option to perceive how each performs utilizing the highlights you chose, including the AUC, exactness, and precision scores 
 
